@@ -5,6 +5,7 @@ Este repositório foi criado para compartilhar códigos e scripts relacionados �
 
 Principais tópicos abordados neste repositório incluem:
 
+* Planejamentos Experimentais
 * Análise de Componentes Principais
 * Regressão por Mínimos Quadrados Clássicos (CLS)
 * Regressão por Mínimos Quadrados Parciais
@@ -13,7 +14,6 @@ Principais tópicos abordados neste repositório incluem:
 * Métodos de Agrupamento
 * Seleção de Variáveis
 * Pré-processamento de dados espectroscópicos 
-* Redes Neurais
 * Redes Neurais Convolucionais
 * E muito mais!
 
